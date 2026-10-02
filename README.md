@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-###  📫 Connect with Me
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -26,6 +25,7 @@ I’m a Full-Stack Web Developer with a strong focus on building scalable backen
 ### 🛠️ Skills
 
 **Programming Languages & Frameworks:**
+
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -40,6 +40,7 @@ I’m a Full-Stack Web Developer with a strong focus on building scalable backen
 <br><br>
 
 **Tools & Technologies:**
+
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
