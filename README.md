@@ -21,6 +21,7 @@
 I’m a Full-Stack Web Developer with a strong focus on building scalable backend architectures (Python, Django, Django REST Framework) and intuitive front-end interfaces (React.js, Next.js). My expertise lies in designing robust REST APIs, managing containerized environments with Docker.
 
 <hr>
+
 ### 🛠️ Skills
 
 **Programming Languages & Frameworks:**
@@ -32,9 +33,9 @@ I’m a Full-Stack Web Developer with a strong focus on building scalable backen
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 
 <br><br>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<!-- <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
-</a>
+</a> -->
 <br><br>
 
 **Tools & Technologies:**
