@@ -37,12 +37,3 @@ I’m a Full-Stack Web Developer with a strong focus on building scalable backen
 
 <hr>
 
-### 🧱 Featured Projects
-
-| 🎬 **afarinakbackend** | 📺 **funibo-backend** |
-| :--- | :--- |
-| Developed backend infrastructure for a media streaming platform using Django REST Framework. Handled complex video permissions, advertisement delivery logic, and integrated Typesense search engine within a Dockerized architecture. | Built comprehensive backend endpoints for series content management. Handled database migrations, custom Latin title serialization, and optimized relational data queries. |
-| 🛠️ `Python` `Django` `DRF` `Typesense` `Docker` | 🛠️ `Python` `Django` `MariaDB` `REST API` |
-
-<br>
-<p align="right"><i>More on my <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">repositories page →</a></i></p>
