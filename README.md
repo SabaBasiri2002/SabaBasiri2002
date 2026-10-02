@@ -18,11 +18,7 @@
 
 ### 👋 A bit about me
 
-I’m a Full-Stack Web Developer with a strong focus on building scalable backend architectures (Python, Django, Django REST Framework) and intuitive front-end interfaces (React.js, Next.js). My expertise lies in designing robust REST APIs, managing containerized environments with Docker, and integrating advanced search engines like Typesense.
-
-* 🔭 **Currently working on:** Optimizing database queries and backend structures for scalable applications.
-* 🌱 **Currently learning:** Advanced frontend reconciliation (React Fiber) and CI/CD pipelines.
-* ⚡ **Fun fact:** I love solving complex architectural puzzles as much as crafting perfect UIs.
+I’m a Full-Stack Web Developer with a strong focus on building scalable backend architectures (Python, Django, Django REST Framework) and intuitive front-end interfaces (React.js, Next.js). My expertise lies in designing robust REST APIs, managing containerized environments with Docker.
 
 <hr>
 
