@@ -6,7 +6,7 @@ I’m a developer with a strong focus on building scalable backend architectures
 
 * 🔭 **Specialized in:** Python, Django, DRF, and relational databases.
 * 🌱 **Currently focusing on:** Advanced React mechanics, containerized environments, and preparing for my academic journey.
-* 📫 **Let's connect:** [saba@example.com](mailto:YOUR_EMAIL@gmail.com) • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* 📫 **Let's connect:** [Email](basirisaba81@gmail.com) • [LinkedIn](www.linkedin.com/in/saba-basiri-161b29289)
 
 <br>
 
